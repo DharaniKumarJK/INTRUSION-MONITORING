@@ -1,0 +1,18 @@
+Attempted: jkdharan16@gmail.com | Actual: jkdharani6@gmail.com
+  Bypass Detected: True
+  Is Character Substitution: True
+  Details: {'substitutions': [{'position': 8, 'original': 'i', 'substitution': '1', 'type': 'character_substitution'}], 'attempted_value': 'jkdharan16@gmail.com', 'actual_value': 'jkdharani6@gmail.com', 'match_percentage': 0.95}
+----------------------------------------
+Attempted: adm1n@example.com | Actual: admin@example.com
+  Bypass Detected: True
+  Is Character Substitution: True
+  Details: {'substitutions': [{'position': 3, 'original': 'i', 'substitution': '1', 'type': 'character_substitution'}], 'attempted_value': 'adm1n@example.com', 'actual_value': 'admin@example.com', 'match_percentage': 0.9411764705882353}
+----------------------------------------
+Attempted: t3st@test.com | Actual: test@test.com
+  Bypass Detected: True
+  Is Character Substitution: True
+  Details: {'substitutions': [{'position': 1, 'original': 'e', 'substitution': '3', 'type': 'character_substitution'}], 'attempted_value': 't3st@test.com', 'actual_value': 'test@test.com', 'match_percentage': 0.9230769230769231}
+----------------------------------------
+Attempted: jkdharani6@gmail.com | Actual: jkdharani6@gmail.com
+  Bypass Detected: False
+----------------------------------------

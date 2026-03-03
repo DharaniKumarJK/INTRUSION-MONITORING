@@ -1,0 +1,5 @@
+{
+    "attempted_username": "adm1n@example.com",
+    "actual_username": "admin@example.com",
+    "attempt_success": false
+}
